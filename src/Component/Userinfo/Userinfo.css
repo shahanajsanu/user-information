@@ -1,0 +1,26 @@
+.user{
+    display: flex;
+    border-bottom: 1px solid lightslategrey;
+    margin: 0px 10px 5px 0px;
+    padding-bottom: 10px;
+}
+.user img{
+    padding: 20px;
+}
+.userinfo{
+    padding-left: 10px;
+}
+.userinfo h3{
+    color: blue;
+    font-weight: 400;
+}
+.main-btn{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(247, 121, 71);
+    border-color: rgb(143, 103, 103);
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}

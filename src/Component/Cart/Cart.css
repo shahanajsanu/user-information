@@ -1,0 +1,13 @@
+.cart-container h3{
+    color: brown;
+}
+.main-btn{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(247, 121, 71);
+    border-color: rgb(143, 103, 103);
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
